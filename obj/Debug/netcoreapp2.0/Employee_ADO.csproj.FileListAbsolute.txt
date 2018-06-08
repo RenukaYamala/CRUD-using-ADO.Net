@@ -1,0 +1,11 @@
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\bin\Debug\netcoreapp2.0\Employee_ADO.deps.json
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\bin\Debug\netcoreapp2.0\Employee_ADO.runtimeconfig.json
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\bin\Debug\netcoreapp2.0\Employee_ADO.runtimeconfig.dev.json
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\bin\Debug\netcoreapp2.0\Employee_ADO.dll
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.csproj.CoreCompileInputs.cache
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.AssemblyInfoInputs.cache
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.AssemblyInfo.cs
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\bin\Debug\netcoreapp2.0\Employee_ADO.pdb
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.csprojAssemblyReference.cache
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.dll
+c:\users\renuka.yamala\source\repos\Employee_ADO\Employee_ADO\obj\Debug\netcoreapp2.0\Employee_ADO.pdb
